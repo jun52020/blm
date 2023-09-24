@@ -1,16 +1,9 @@
-## 饱了么免费版 卡密乱填即可
+### 青龙拉库命令
 
+```shell
+ql repo https://github.com/pingxingsheng/elm.git "^ele" "" "USER|common|ql|sendNotify1"
+```
 
+定时的话，每天1点拉一次 `0 1 * * *`
 
-使用说明：
-
-##饱了么通卡-月卡
-export ELE_CARME="你的卡密"
-
-
-
-抢券ck变量：elmqqck
-unb=xxx;cookie2=xxx;SID=xxx;
-
-
- 是否能用，自测哈。。。。
+飞机频道：[https://t.me/tigerorrose](https://t.me/tigerorrose)
